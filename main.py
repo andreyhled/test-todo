@@ -1,1 +1,1 @@
-print(help(docstring))
+print("Hello World!")
